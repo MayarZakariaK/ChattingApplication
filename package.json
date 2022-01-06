@@ -1,0 +1,19 @@
+{
+    "name": "chatting application",
+    "version": "0.0.0",
+    "description": "Chatting application using socket.io",
+    "main": "index.js",
+    "author": "mm",
+    "private": true,
+    "license": "ISC",
+    "dependencies": {
+      "express": "~4.17.1",
+      "socket.io": "^4.0.0"
+    },
+    "scripts": {
+      "start": "node index.js"
+    },
+    "engines": {
+        "node": "16.13.1"
+      }
+  }
